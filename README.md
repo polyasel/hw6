@@ -29,3 +29,12 @@
  * husband
  * neighbour
  * god
+
+С "Love" и "Like"
+* people
+* sound
+* cup
+* smell
+*  music
+*  someone
+* child
