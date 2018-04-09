@@ -13,3 +13,4 @@
 
 # Часть 2
 ![alt text](https://github.com/polyasel/hw6/blob/master/question.png)
+![alt text](https://github.com/polyasel/hw6/blob/master/like.png)
