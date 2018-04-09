@@ -16,7 +16,7 @@
 
 ![alt text](https://github.com/polyasel/hw6/blob/master/like.png)
 Только со словом "LIke" употребляются:
- *drink
- *coffee
- *tea
- *information
+ * drink
+ * coffee
+ * tea
+ * information
