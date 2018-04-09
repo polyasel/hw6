@@ -7,4 +7,4 @@
 
 3)
 ![alt text](https://github.com/polyasel/hw6/blob/master/jug.png)
-##Вывод:
+ ##Вывод:
